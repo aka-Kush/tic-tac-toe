@@ -42,3 +42,8 @@ $ npm start
 ## Screenshots 📷
 
 ![Screenshot from 2023-12-15 18-46-35](https://github.com/aka-Kush/tic-tac-toe/assets/62604121/9a346a3a-24c1-4fc7-a348-f6f082b8a69b)
+
+
+## Checkout live 😃
+
+https://kush-tictactoe.netlify.app/
